@@ -1,4 +1,0 @@
-- 👋 Hi, Im Janu
-- 👀 I’m interested in computer science and programming
-- 🌱 I’m currently studying computer engineering at the UPV (Valencia, Spain)
-- 📫 You can reach me through my mail 
